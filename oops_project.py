@@ -68,8 +68,8 @@ library.show_books()
 print()
 
 # Create user objects
-student = Student("Alice")
-teacher = Teacher("Mr. Bob")
+student = Student("Madhu")
+teacher = Teacher("Mr.Satish Kumar")
 
 # Users borrow books
 library.issue_book("Python Programming", student)
